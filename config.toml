@@ -1,0 +1,39 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Zichen Chen'
+theme = "cactus"
+
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Research"
+url = "/proj"
+weight = 2
+
+[[menu.main]]
+name = " Publications"
+url = "/pub"
+weight = 3
+
+[[menu.main]]
+name = "Professional Service"
+url = "/service"
+weight = 4
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 5
+
+[params]
+  description = "Hi! I am a first-year PhD student at the University of California, Santa Barbara. I am interested in **machine learning**, **federated learning**, **privacy** and the intersection of these and the **human**. "
+  description_newline = "I was a research associate at Joint NTU-WeBank Research Centre on Fintech, Singapore before. I was so lucky to work with [Prof. Tan Ah-Hwee](https://sites.google.com/smu.edu.sg/ahtan/home?authuser=0), [Prof. Sinno Jialin Pan](https://personal.ntu.edu.sg/sinnopan/), and [Prof. Han Yu](https://personal.ntu.edu.sg/han.yu/). My previous research inlcudes reinforcement learning, recommender system, and transfer learning."
+  colortheme = "classic" # dark, light, white, or classic
+
+  [[params.social]]
+    name = "linkedin"
+    link = "https://www.linkedin.com/in/chenzichen/"
