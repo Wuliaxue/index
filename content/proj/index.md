@@ -1,7 +1,7 @@
 ---
 title: "Proj"
 date: 2021-12-09T01:46:31-08:00
-draft: true
+draft: false
 ---
 ## Federated Learning
 Topics include: secure cmmunication optimization, Singapore COVID-19 contact tracing, incentive mechanism design, trust-based learning.
