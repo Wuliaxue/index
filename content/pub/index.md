@@ -1,7 +1,7 @@
 ---
 title: "Pub"
 date: 2021-12-09T01:46:41-08:00
-draft: true
+draft: false
 ---
 ## Book Chapter
 **Zichen Chen**, Zelei Liu, Kang Loon Ng, Han Yu, Yang Liu and Qiang Yang, “A Gamified Research Tool forIncentive Mechanism Design in Federated Learning”, *Federated Learning: Privacy and Incentive*, 2020
